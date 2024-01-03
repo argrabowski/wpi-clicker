@@ -8,7 +8,7 @@ To play, simply click the WPI logo in the center of the screen. You will obtain 
 
 ## Project Video
 
-https://github.com/argrabowski/WPI-Clicker/assets/64287065/288ce077-f8dc-46a6-b138-66b549bac52a
+https://github.com/argrabowski/wpi-clicker/assets/64287065/3d48990c-fa07-4f9f-b641-b0e72c2519ca
 
 ## What technologies did we use?
 
