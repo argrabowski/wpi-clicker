@@ -1,0 +1,103 @@
+{
+  "production": [
+    {
+      "index": 0,
+      "name": "Fuller Labs",
+      "baseCost": 10,
+      "unit": "CS Major",
+      "power": 1,
+      "src": "/fuller-lab.png"
+    },
+    {
+      "index": 1,
+      "name": "Campus Center",
+      "baseCost": 1000,
+      "unit": "Chartwells Employee",
+      "power": 9,
+      "src": "/campus-center.png"
+    },
+    {
+      "index": 2,
+      "name": "Innovation Studio",
+      "baseCost": 10000,
+      "unit": "Innovator",
+      "power": 50,
+      "src": "/innovation-studio.png"
+    },
+    {
+      "index": 3,
+      "name": "Smart World",
+      "baseCost": 100000,
+      "unit": "Researcher",
+      "power": 280,
+      "src": "/smart-world.png"
+    },
+    {
+      "index": 4,
+      "name": "Freshman Skyscraper",
+      "baseCost": 1000000,
+      "unit": "Freshman",
+      "power": 1800,
+      "src": "/freshman-skyscraper.png"
+    }
+  ],
+
+  "click": [
+    {
+      "index": 0,
+      "name": "Daka Cookies",
+      "baseCost": 50,
+      "power": 2,
+      "src": "/cookie.png"
+    },
+    {
+      "index": 1,
+      "name": "Starbucks Coffee",
+      "baseCost": 500,
+      "power": 4,
+      "src": "/starbucks-cup.png"
+    },
+    {
+      "index": 2,
+      "name": "Gompei Statue",
+      "baseCost": 5000,
+      "power": 30,
+      "src": "/gompei-statue.png"
+    },
+    {
+      "index": 3,
+      "name": "Early Decision Students",
+      "baseCost": 100000,
+      "power": 550,
+      "src": "/wpi-logo.png"
+    },
+    {
+      "index": 4,
+      "name": "Extended Breaks",
+      "baseCost": 500000,
+      "power": 2000,
+      "src": "/extended-break.png"
+    },
+    {
+      "index": 5,
+      "name": "Summer Courses",
+      "baseCost": 1000000,
+      "power": 5000,
+      "src": "/summer-courses.png"
+    },
+    {
+      "index": 6,
+      "name": "Underloaded Terms",
+      "baseCost": 10000000,
+      "power": 45000,
+      "src": "/underload.png"
+    },
+    {
+      "index": 7,
+      "name": "Off Campus IQP",
+      "baseCost": 1000000000,
+      "power": 6000000,
+      "src": "/iqp.png"
+    }
+  ]
+}
